@@ -1,1 +1,10 @@
 enabling signed commits via git and cli
+hopefully adding more text, to get commit to verify
+
+clear
+
+
+
+
+
+
